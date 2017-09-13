@@ -11,7 +11,7 @@ hibernate管理product类表，struts2管理action，实现了产品的增删改
 </div>
 
 ### struts-hibernate-product
-增加了Category类，其中Category和Product属于一对多关系；实现了Category的管理，以及Category的关联。
+增加了Category类，其中Category和Product属于一对多关系；实现了Category的管理，以及Product和Category的关联。
 <div  align="center">
 <img src="http://stepimage.how2j.cn/1864.png" height="150px" alt="分类管理" align=center/><div  align="center">Category类管理界面</div>
 </div>
